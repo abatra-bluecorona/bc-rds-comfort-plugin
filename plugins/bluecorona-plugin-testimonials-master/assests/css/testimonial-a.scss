@@ -1,0 +1,47 @@
+.mobile_testimonial_A{
+	background-color: #F8F8F8;
+	.testimonial_heading{
+		color: #363636;
+		font-family: "Source Sans Pro";
+		font-size: 30px;
+		font-weight: 600;
+		line-height: 55px;
+	}
+	.reviews_swiper_a{
+		.fa-quote-left{
+			color: #D7D7D7;
+			font-size: 35px;
+		}
+		.fa-star{
+			color: #FFBB44;
+			font-size: 15px;
+			line-height: 55px;
+		}
+		.testimonial_detail{
+			color: #656565;
+			font-family: "Source Sans Pro";
+			font-size: 20px;
+			line-height: 24px;
+		}
+		.client_name{
+			color: #363636;
+			font-family: "Source Sans Pro";
+			font-size: 16px;
+			font-weight: 700;
+		}
+		.reviews_a_pagination{
+			.swiper-pagination-bullet {
+			    width: 9px;
+			    height: 9px;
+			    margin: 0 7px;
+			    border-radius: 0;
+			    outline: none !important;
+			    background: #d8d8d8;
+			    opacity: 1;
+			}
+			.swiper-pagination-bullet-active {
+			    background: #363636;
+			}
+		}
+	}
+}
