@@ -1,0 +1,2 @@
+<?php $get_rds_tracking_code = rds_tracking(); ?>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=<?php echo $get_rds_tracking_code['tracking']['Google_Tag_Manager']['GTM_CODE'];  ?>"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
